@@ -1,0 +1,107 @@
+@import url(https://fonts.googleapis.com/css?family=Work+Sans:300,600);
+
+
+body{
+	font-size: 20px;
+	font-family: 'Work Sans', sans-serif;
+	color: #333;
+    font-weight: 300;
+	text-align: center;
+	border: 15px;
+	margin: 20px;
+	padding: 10%;
+	background: url(../img/fondo\ 1.jpg);
+	
+}
+h1{
+	font-weight: 300;
+	margin: 0px;
+	padding: 10px;
+	font-size: 20px;
+	text-align: center;
+	background-color: #444;
+	color: #fff;
+  }	
+ .logo{
+    
+    font-family: 'Lacquer', sans-serif;
+    color:rgb(4, 71, 24);
+    font-size: 20px;
+    text-align-last: initial;
+    margin: 30px;
+    padding: 0cm;
+    inset-inline: center;
+    display: inline-flex;
+}
+.main-header.container.logo{
+    width: 30%;
+    height: 30%;
+    inset-inline: center;
+    display: inline-block;
+}
+div{
+	text-align: center;
+	margin-block-start: auto;
+}
+div.pregunta{
+	
+	font-size: 40px;
+	margin-bottom: 40px;
+	text-align: center;
+
+}
+div.respuesta {
+	margin-bottom: 20px;
+	text-align: left;
+	display: inline-block;
+  }
+input{
+	align-items: center;
+	
+	page-break-after: auto;
+}
+  button{
+	font-family: 'Work Sans', sans-serif;
+	  font-size: 22px;
+	  background-color: #279;
+	  color: #fff;
+	  padding-left: 5cm;
+	  border: 0px;
+	  border-radius: 3px;
+	  padding: 20px;
+	  cursor: pointer;
+	  margin-bottom: 20px;
+  }
+div.id{
+text-decoration: none;
+padding: 10px;
+font-weight: 600;
+font-size: 20px;
+color: #fff;
+background-color: bisque;
+border-radius: 6px;
+border: 2px solid;
+}	 
+	  
+    
+.banner{
+	width: 50;
+	margin-top: auto;
+
+}
+.banner img{
+	width: 10cm;
+	height: 10cm;
+}
+
+.comprobar{
+	font-family: sans-serif;
+	font-size: 20px;
+	background-color: #279;
+	color: #fff;
+	border: 0px;
+	border-radius: 3px;
+	padding: 20px;
+	cursor: pointer;
+	margin-bottom: 20px;
+}

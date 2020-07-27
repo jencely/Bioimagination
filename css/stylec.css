@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css?family=Lacquer|Roboto|Sriracha&display=swap');
+*{
+    box-sizing: border-box;
+}
+body {
+        font-family: 'Roboto', sans-serif;
+        margin: 60px;
+        border: 60px;
+        padding-top: 1cm;
+        padding-right: 1cm;
+        background: url(../img/fondo2.jpg);
+        background-attachment: fixed;
+      
+}
+h2 {
+    font-style: initial;
+    font-size: 40px;
+    font-style: normal;
+    color: rgb(9, 32, 16);
+    text-align: justify;
+}
+p{
+    
+    font-style: initial;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+}
+h1{
+    font-family: 'Lacquer', sans-serif;
+    color: rgb(14, 53, 14);
+}
+
+/*-------------logo*------------------*/
+
+
+.main-header{
+    width: 50%;
+    inset-inline: center;
+    display: inline-block;
+}
+
+
+
+.logo{
+    
+    font-family: 'Lacquer', sans-serif;
+    color:rgb(4, 71, 24);
+    font-size: 20px;
+    text-align-last: initial;
+    margin: 30px;
+    padding: 0cm;
+    inset-inline: center;
+    display: inline-flex;
+}
+.main-header.container.logo{
+    width: 30%;
+    height: 30%;
+    inset-inline: center;
+    display: inline-block;
+}
+/*------------------------estilos menu---------*/
+.main-nav{
+    width: 1500px;
+    margin: 20px auto;
+    padding-left: 15cm;
+    background:rgba(75, 84, 163, 0.507);
+  
+    
+}
+.main.nav.container.nav ul{
+    list-style: none;
+
+}
+.main.nav.container.nav a{
+text-decoration-color: rgb(29, 34, 17);
+}
+.nav >li{
+    display: inline-block;
+}
+.nav-item{
+    font-size: 20px;
+    font-family: cursive;
+    color: rgb(0, 0, 0);
+    display: block;
+}
+.nav-item{
+    font-size: 20px;
+    color: rgb(16, 41, 1);
+}
+.left img{
+    padding-left: 10cm;
+}
+h2{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+section{
+    display: inline;
+}
